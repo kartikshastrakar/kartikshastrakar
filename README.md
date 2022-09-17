@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartikshastrakar
+- 👋 Hi, I’m kartik shastrakar
 - 👀 I’m interested in Data science,Machine learning,Deep learning and Artificial intelligence
 - 🌱 I’m currently learning Quantum Machine Learning
 - 💞️ I’m actively looking for job in Data Scientist or ML/DL Engineer
