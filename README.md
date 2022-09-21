@@ -1,4 +1,4 @@
-<img align="right" width=150px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="center" width=300 alt="Unicorn" src="https://github.com/kartikshastrakar/Data-Science-Portfolio/blob/main/giphy.gif" />
 
 
  
