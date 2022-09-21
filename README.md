@@ -44,6 +44,8 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=007ACC)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Machinelearning](https://img.shields.io/badge/-Machinelearning-05122A?style=flat&logo=MachineLearning)&nbsp;
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-05122A?style=flat&logo=DeepLearning)&nbsp;
