@@ -15,8 +15,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 
 <i>Happy Coding!</i> 😊
 
----
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
 
 <i>Follow me around the web:</i><br>
 
