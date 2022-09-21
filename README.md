@@ -30,7 +30,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 - 💞️ I’m actively looking for job in Data Scientist or ML/DL Engineer
 - 📫 How to reach me... [LinkedIn](https://www.linkedin.com/in/kartik-shastrakar-054783166) or G-mail:- kartikshastrakar04@gmail.com
 
-
+### 🛠 &nbsp;Tech Stack
 
 <!---
 kartikshastrakar/kartikshastrakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
