@@ -14,24 +14,13 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 
 
 <i>Happy Coding!</i> 😊
-
-
-
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-
-
+---
 - 👋 Hi, I’m kartik shastrakar
 - 👀 I’m interested in Data science,Machine learning,Deep learning and Artificial intelligence
 - 🌱 I’m currently learning Quantum Machine Learning
 - 💞️ I’m actively looking for job as Data Scientist or ML/DL Engineer
 - 📫 How to reach me... [LinkedIn](https://www.linkedin.com/in/kartik-shastrakar-054783166) or G-mail:- kartikshastrakar04@gmail.com
-
+---
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -52,7 +41,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>  
 
- 
+ ---
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -61,7 +50,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 <a href="kartikshastrakar04@gmail.com"><img src="https://img.shields.io/badge/-kartikshastrakar04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_kartik_shastrakar/"><img src="https://img.shields.io/badge/-@Kartik_shastrakar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kartik.shastrakar"><img src="https://img.shields.io/badge/-@kartikshastrakar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+---
 <!---
 kartikshastrakar/kartikshastrakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
