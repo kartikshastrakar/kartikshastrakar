@@ -47,7 +47,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 <p align="center">
 <a href="https://github.com/kartikshastrakar"><img src="https://img.shields.io/badge/-kartikshastrakar.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166/"><img src="https://img.shields.io/badge/-Kartik%20Anilrao%20Shastrakar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="kartikshastrakar04@gmail.com"><img src="https://img.shields.io/badge/-kartikshastrakar04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="kartikshastrakar04@gmail.com"><img src="https://img.shields.io/badge/-@kartikshastrakar04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_kartik_shastrakar/"><img src="https://img.shields.io/badge/-@Kartik_shastrakar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kartik.shastrakar"><img src="https://img.shields.io/badge/-@kartikshastrakar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 ---
