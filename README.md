@@ -49,5 +49,6 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166/"><img src="https://img.shields.io/badge/-Kartik%20Anilrao%20Shastrakar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/_kartik_shastrakar/"><img src="https://img.shields.io/badge/-@Kartik_shastrakar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kartik.shastrakar"><img src="https://img.shields.io/badge/-@kartikshastrakar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
 ---
 
