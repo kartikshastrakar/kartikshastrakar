@@ -39,7 +39,7 @@ Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166
 ![Machinelearning](https://img.shields.io/badge/-Machinelearning-05122A?style=flat&logo=MachineLearning)&nbsp;
 ![DeepLearning](https://img.shields.io/badge/-DeepLearning-05122A?style=flat&logo=DeepLearning)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-<img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=AWS)&nbsp;
 
  ---
 ### 🤝🏻 &nbsp;Connect with Me
