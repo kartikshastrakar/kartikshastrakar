@@ -1,54 +1,38 @@
-<img align="center" width=300 alt="Unicorn" src="https://github.com/kartikshastrakar/Data-Science-Portfolio/blob/main/giphy.gif" />
+# Hi there! 👋 I'm Kartik Shastrakar
 
+![Profile Picture](https://github.com/kartikshastrakar/portfolio_new/raw/main/coding-freak.gif)
 
- 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <DAta=>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>  
-</div>
-<div align="center" width="50">
-</div>
+Welcome to my GitHub profile! Feel free to explore the projects, raise issues, and submit PRs. Let's collaborate and create amazing things together! 😊
 
-<div align="center">
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://www.linkedin.com/in/kartik-shastrakar-054783166/"><b>here</b></a><br>
+## About Me
+- 👀 I'm passionate about Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
+- 🌱 Currently diving into Quantum Machine Learning and Generative AI to expand my skill set.
+- 💼 Actively seeking opportunities as a Data Scientist or ML/DL Engineer.
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/kartik-s-054783166) or email: kartikshastrakar04@gmail.com
 
-
-<i>Happy Coding!</i> 😊
----
-- 👋 Hi, I’m kartik shastrakar
-- 👀 I’m interested in Data science,Machine learning,Deep learning and Artificial intelligence
-- 🌱 I’m currently learning Quantum Machine Learning and Generative AI
-- 💞️ I’m actively looking for job as Data Scientist or ML/DL Engineer
-- 📫 How to reach me... [LinkedIn](https://www.linkedin.com/in/kartik-shastrakar-054783166) or G-mail:- kartikshastrakar04@gmail.com
----
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=007ACC)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Machinelearning](https://img.shields.io/badge/-Machinelearning-05122A?style=flat&logo=MachineLearning)&nbsp;
-![DeepLearning](https://img.shields.io/badge/-DeepLearning-05122A?style=flat&logo=DeepLearning)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=AWS)&nbsp;
-
- ---
-### 🤝🏻 &nbsp;Connect with Me
-
+## Tech Stack
 <p align="center">
-<a href="https://github.com/kartikshastrakar"><img src="https://img.shields.io/badge/-kartikshastrakar.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kartik-shastrakar-054783166/"><img src="https://img.shields.io/badge/-Kartik%20Anilrao%20Shastrakar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_kartik_shastrakar/"><img src="https://img.shields.io/badge/-@Kartik_shastrakar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/kartik.shastrakar"><img src="https://img.shields.io/badge/-@kartikshastrakar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R (Statistics)">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
----
+## Connect with Me
+- LinkedIn: [Kartik Shastrakar](https://www.linkedin.com/in/kartik-s-054783166)
+- Email: kartikshastrakar04@gmail.com
 
+Let's innovate and build together! Happy Coding! 🚀
