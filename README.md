@@ -66,18 +66,15 @@ Explore my repositories, raise issues, and contribute to building something amaz
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikshastrakar&theme=radical" width="98%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikshastrakar&show_icons=true&theme=radical&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikshastrakar&theme=radical" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshastrakar&layout=compact&langs_count=10&theme=radical&hide="python" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshastrakar&layout=compact&langs_count=10&theme=radical&hide=c%2B%2B" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikshastrakar&theme=radical" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikshastrakar&theme=radical" width="98%">
-</p>
 ---
 
 ## 🤝 Let's Connect
