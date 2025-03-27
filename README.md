@@ -57,12 +57,6 @@ Explore my repositories, raise issues, and contribute to building something amaz
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikshastrakar&theme=radical&column=4&no-bg=true&no-frame=true" alt="GitHub Trophies">
-</p>
-
----
 
 ## 📊 GitHub Stats
 
