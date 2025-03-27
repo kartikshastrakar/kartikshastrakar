@@ -71,7 +71,7 @@ Explore my repositories, raise issues, and contribute to building something amaz
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshastrakar&layout=compact&langs_count=10&theme=radical&hide=c%2B%2B" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikshastrakar&layout=compact&langs_count=10&theme=radical&hide="python" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikshastrakar&theme=radical" width="48%">
 </p>
 
