@@ -71,7 +71,7 @@ I enjoy collaborating with **cross-functional teams** and building AI integratio
 ## 🧾 Client Portfolio
 I’ve contributed to AI and enterprise transformation initiatives for:
 
-**Tata Cummins | KOEL (Kirloskar Oil Engines Ltd.) | KTL (Kirloskar Toyota) | Oracle | Polycab | HDFC | Tor.ai | BASF (POC)|Multus-Medical image segmentation |Kotak Bank - finbots |ICHNext Fashion - Trend analysis| TTL | Tata motors - CAT-teams |
+Tata Cummins | KOEL (Kirloskar Oil Engines Ltd.) | KTL (Kirloskar Toyota) | Oracle | Polycab | HDFC | Tor.ai | BASF (POC)|Multus-Medical image segmentation |Kotak Bank - finbots |ICHNext Fashion - Trend analysis| TTL | Tata motors - CAT-teams |
 
 ---
 
