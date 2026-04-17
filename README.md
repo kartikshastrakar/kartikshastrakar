@@ -1,4 +1,4 @@
-s# 👋 Hi there! I'm **Kartik Shastrakar**
+👋 Hi there! I'm **Kartik Shastrakar**
 
 <p align="center">
   <img src="https://github.com/kartikshastrakar/portfolio_new/raw/main/coding-freak.gif" width="500" alt="Coding Freak">
